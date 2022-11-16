@@ -1,0 +1,5 @@
+"id,SalePersonFName,SalePersonLName,ProductName,ItemsSold,SoldPrice,SoldDate,City,State,Country,Region"
+"5,Najaf,Ali,Computer,1,300,2015-06-20,Karachi,Sindh,Pakistan,Asia"
+"6,Sukhjeet,Singh,TV,2,900,2015-06-21,ChandiGar,Punjab,India,Asia"
+"7,Chirag,Patel,Cell Phone,5,1500,2015-06-23,AhmadAbad,Gujrat,India,Asia"
+"8,Aleena,Aman,Laptop,2,800,2015-05-25,Lahore,Punjab,Pakistan,Asia"
